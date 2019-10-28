@@ -1,0 +1,48 @@
+_repo: The-Parochial-History-of-Cornwall-Volume-4-of-4_60558
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Tonkin, Thomas
+    birthdate: 1678
+    deathdate: 1742
+    gutenberg_agent_id: '51017'
+    url: http://www.gutenberg.org/2009/agents/51017
+  - agent_name: Boase, Henry S. (Henry Samuel)
+    alias: Boase, Henry Samuel
+    birthdate: 1799
+    deathdate: 1883
+    gutenberg_agent_id: '51013'
+    url: http://www.gutenberg.org/2009/agents/51013
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Samuel_Boase
+  - agent_name: Hals, William
+    birthdate: 1655
+    gutenberg_agent_id: '51016'
+    url: http://www.gutenberg.org/2009/agents/51016
+    wikipedia: https://en.wikipedia.org/wiki/William_Hals
+creator:
+  editor:
+    agent_name: Gilbert, Davies
+    aliases:
+    - Giddy, Davies
+    - Davies, Gilbert
+    birthdate: 1767
+    deathdate: 1839
+    gutenberg_agent_id: '51015'
+    url: http://www.gutenberg.org/2009/agents/51015
+    wikipedia: https://en.wikipedia.org/wiki/Davies_Gilbert
+description: ''
+gutenberg_issued: '2019-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- England -- Cornwall (County)'
+- !lcsh 'Cornwall (England : County) -- History'
+- !lcc 'DA'
+- GITenberg
+title: The Parochial History of Cornwall, Volume 4 (of 4)
+url: http://www.gutenberg.org/ebooks/60558
